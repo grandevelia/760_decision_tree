@@ -1,0 +1,6 @@
+**/*.txt
+data/*
+**/*.png
+**/*.key
+**/env/*
+**/__pycache__/*
